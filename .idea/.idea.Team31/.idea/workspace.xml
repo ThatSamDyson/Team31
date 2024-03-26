@@ -9,7 +9,9 @@
   <component name="ChangeListManager">
     <list default="true" id="ac31d7af-252f-49dc-9dea-623ee06bd0f0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Team31/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Team31/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Levels/SNAP_Experimental.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/SNAP_Experimental.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Team31/NPC.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/NPC.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Team31/NPC.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/NPC.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Team31/Team31.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/Team31.Build.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Team31.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/Team31.uproject" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +126,7 @@
       <updated>1710861835417</updated>
       <workItem from="1710861850883" duration="56000" />
       <workItem from="1711143795264" duration="25000" />
-      <workItem from="1711477172226" duration="2594000" />
+      <workItem from="1711477172226" duration="3860000" />
     </task>
     <servers />
   </component>
