@@ -9,11 +9,12 @@
   <component name="ChangeListManager">
     <list default="true" id="ac31d7af-252f-49dc-9dea-623ee06bd0f0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Team31/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Team31/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Levels/SNAP_James.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/SNAP_James.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Team31/NPC.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/NPC.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Team31/NPC.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/NPC.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Team31/PatrolPath.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/PatrolPath.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Team31/PatrolPath.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/PatrolPath.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Team31/BTTask_ChasePlayer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/BTTask_ChasePlayer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Team31/BTTask_FindPatrolPathPoint.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/BTTask_FindPatrolPathPoint.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Team31/BTTask_FindPlayerLocation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/BTTask_FindPlayerLocation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Team31/BTTask_FindRandomLocation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/BTTask_FindRandomLocation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Team31/BTTask_IncrementPathIndex.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/BTTask_IncrementPathIndex.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/Team31/BTTask_IncrementPathIndex.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/BTTask_IncrementPathIndex.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +130,7 @@
       <workItem from="1711143795264" duration="25000" />
       <workItem from="1711477172226" duration="6692000" />
       <workItem from="1711492232664" duration="5036000" />
-      <workItem from="1711744564629" duration="4619000" />
+      <workItem from="1711744564629" duration="6667000" />
     </task>
     <servers />
   </component>

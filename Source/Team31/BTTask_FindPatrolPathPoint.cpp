@@ -5,7 +5,8 @@
 #include "NPC_AIController.h"
 #include "BehaviorTree/BlackboardComponent.h"
 
-UBTTask_FindPatrolPathPoint::UBTTask_FindPatrolPathPoint(FObjectInitializer const& ObjectInitializer)
+UBTTask_FindPatrolPathPoint::UBTTask_FindPatrolPathPoint(FObjectInitializer const& ObjectInitializer) :
+	UBTTask_BlackboardBase{ObjectInitializer}
 {
 	NodeName = TEXT("Find Path Point");
 }
