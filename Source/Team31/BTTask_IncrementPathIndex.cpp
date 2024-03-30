@@ -1,8 +1,8 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
 
-#include "NPC.h"
 #include "BTTask_IncrementPathIndex.h"
+#include "NPC.h"
 #include "NPC_AIController.h"
 #include "BehaviorTree/BlackboardComponent.h"
 

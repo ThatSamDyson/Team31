@@ -1,8 +1,8 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
+#include "BTService_ChangeSpeed.h"
 #include "NPC.h"
 #include "AIController.h"
-#include "BTService_ChangeSpeed.h"
 #include "GameFramework/CharacterMovementComponent.h"
 
 UBTService_ChangeSpeed::UBTService_ChangeSpeed()
