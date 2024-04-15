@@ -20,6 +20,6 @@ public:
 	virtual EBTNodeResult::Type ExecuteTask(UBehaviorTreeComponent& OwnerComp, uint8* NodeMemory) override;
 private:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="AI", meta=(AllowPrivateAccess="True"))
-	float SearchRadius = 250.f;
+	float SearchRadius = 500.f;
 	class UAISenseConfig_Sight* SightConfig;
 };
