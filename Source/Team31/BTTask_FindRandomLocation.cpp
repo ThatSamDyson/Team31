@@ -2,7 +2,6 @@
 
 
 #include "BTTask_FindRandomLocation.h"
-
 #include "NavigationSystem.h"
 #include "NPC_AIController.h"
 #include "BehaviorTree/BlackboardComponent.h"
@@ -27,7 +26,9 @@ EBTNodeResult::Type UBTTask_FindRandomLocation::ExecuteTask(UBehaviorTreeCompone
 			if (auto* const NavSys = UNavigationSystemV1::GetCurrent(GetWorld()))
 			{
 				FNavLocation Loc;
-				if (NavSys->GetRandomPointInNavigableRadius(Origin, SearchRadius, Loc))
+				FVector SearchOffset(+500.f,0,0);
+				FVector Forward = npc->GetActorForwardVector() + SearchOffset;
+				if (NavSys->GetRandomPointInNavigableRadius(Forward, SearchRadius, Loc))
 				{
 					OwnerComp.GetBlackboardComponent()->SetValueAsVector(GetSelectedBlackboardKey(), Loc.Location);
 				}
