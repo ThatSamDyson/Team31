@@ -25,8 +25,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 8
+  &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2dudJpjntnF11e47pEjETj3geTF" />
   <component name="ProjectViewState">
@@ -38,8 +37,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Ethan&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;James&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -48,9 +46,9 @@
   },
   &quot;keyToStringList&quot;: {
     &quot;rider.external.source.directories&quot;: [
-      &quot;C:\\Users\\ethan\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache&quot;,
-      &quot;C:\\Users\\ethan\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache&quot;,
-      &quot;C:\\Users\\ethan\\AppData\\Local\\Symbols\\src&quot;
+      &quot;C:\\Users\\james\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\james\\AppData\\Roaming\\JetBrains\\Rider2023.2\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\james\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
 }</component>
@@ -122,11 +120,11 @@
       <updated>1710861835417</updated>
       <workItem from="1710861850883" duration="56000" />
       <workItem from="1711143795264" duration="25000" />
-      <workItem from="1711375417988" duration="665000" />
-      <workItem from="1711472986378" duration="209000" />
-      <workItem from="1711549120572" duration="780000" />
-      <workItem from="1711549959674" duration="682000" />
-      <workItem from="1713186456809" duration="1260000" />
+      <workItem from="1711477172226" duration="6692000" />
+      <workItem from="1711492232664" duration="5036000" />
+      <workItem from="1711744564629" duration="7815000" />
+      <workItem from="1711790200554" duration="592000" />
+      <workItem from="1713195104134" duration="760000" />
     </task>
     <servers />
   </component>
