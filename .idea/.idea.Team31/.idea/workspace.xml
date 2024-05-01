@@ -10,7 +10,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ac31d7af-252f-49dc-9dea-623ee06bd0f0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Team31/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Team31/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Code/Widgets/WBP_MainMenu.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/Widgets/WBP_MainMenu.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Code/Shop/Cards/WBP_CardHold3r.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/Shop/Cards/WBP_CardHold3r.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Code/Shop/WBP_Shop.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/Shop/WBP_Shop.uasset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -195,6 +196,8 @@
       <workItem from="1713978075923" duration="702000" />
       <workItem from="1713979711219" duration="1244000" />
       <workItem from="1714033659425" duration="1790000" />
+      <workItem from="1714405354186" duration="754000" />
+      <workItem from="1714407162058" duration="673000" />
     </task>
     <servers />
   </component>
