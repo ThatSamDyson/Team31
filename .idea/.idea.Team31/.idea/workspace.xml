@@ -10,8 +10,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ac31d7af-252f-49dc-9dea-623ee06bd0f0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Team31/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Team31/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Code/Shop/BP_Interact.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/Shop/BP_Interact.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Levels/SNAP_Experimental.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/SNAP_Experimental.umap" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,6 +188,7 @@
       <workItem from="1714407162058" duration="673000" />
       <workItem from="1714566130071" duration="1283000" />
       <workItem from="1714576514861" duration="679000" />
+      <workItem from="1715000739718" duration="310000" />
     </task>
     <servers />
   </component>
