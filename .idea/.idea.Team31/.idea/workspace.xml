@@ -8,12 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac31d7af-252f-49dc-9dea-623ee06bd0f0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Team31/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Team31/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Code/AI/Variants/BP_NPC_WanderChase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/AI/Variants/BP_NPC_WanderChase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Code/Character/CharacterBlueprints/CH_Roguelike.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/Character/CharacterBlueprints/CH_Roguelike.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Levels/SNAP_Experimental.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/SNAP_Experimental.umap" afterDir="false" />
-    </list>
+    <list default="true" id="ac31d7af-252f-49dc-9dea-623ee06bd0f0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -198,6 +193,7 @@
       <workItem from="1715183153097" duration="737000" />
       <workItem from="1715184540110" duration="661000" />
       <workItem from="1715438081933" duration="981000" />
+      <workItem from="1715515397772" duration="720000" />
     </task>
     <servers />
   </component>
