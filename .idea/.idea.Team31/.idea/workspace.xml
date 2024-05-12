@@ -10,15 +10,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ac31d7af-252f-49dc-9dea-623ee06bd0f0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Team31/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Team31/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Code/AI/BT_NPC.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/AI/BT_NPC.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Code/AI/Variants/BP_NPC_Boss.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/AI/Variants/BP_NPC_Boss.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Code/AI/Variants/BP_NPC_WanderChase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/AI/Variants/BP_NPC_WanderChase.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Code/AI/Variants/BT_NPC_WanderChase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/AI/Variants/BT_NPC_WanderChase.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Levels/SNAP_James.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/SNAP_James.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Team31/BTService_ChangeSpeed.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/BTService_ChangeSpeed.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Team31/BTTask_FindPlayerLocation.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/BTTask_FindPlayerLocation.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Team31/NPC_AIController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/NPC_AIController.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/Team31/NPC_AIController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/Team31/NPC_AIController.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +195,7 @@
       <workItem from="1715182690835" duration="376000" />
       <workItem from="1715183153097" duration="737000" />
       <workItem from="1715184540110" duration="661000" />
-      <workItem from="1715522408931" duration="1592000" />
+      <workItem from="1715522408931" duration="2186000" />
     </task>
     <servers />
   </component>
