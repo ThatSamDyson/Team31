@@ -17,10 +17,12 @@ class TEAM31_API UBTTask_FindPlayerLocation : public UBTTask_BlackboardBase
 public:
 	explicit UBTTask_FindPlayerLocation(FObjectInitializer const& ObjectInitializer);
 	virtual EBTNodeResult::Type ExecuteTask(UBehaviorTreeComponent& OwnerComp, uint8* NodeMemory) override;
+
+protected:
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Search", meta=(AllowPrivateAccess="true"))
+	float SearchRadius = 150.f;
+	
 private:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Search", meta=(AllowPrivateAccess="true"))
 	bool SearchRandom = false;
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Search", meta=(AllowPrivateAccess="true"))
-	float SearchRadius = 150.f;
 };

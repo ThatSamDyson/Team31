@@ -19,6 +19,10 @@ public:
 
 protected:
 	virtual void OnPossess(APawn* InPawn) override;
+
+protected:
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Search", meta=(AllowPrivateAccess="true"))
+	float PeripheralVision = 270.f;
 private:
 	class UAISenseConfig_Sight* SightConfig;
 

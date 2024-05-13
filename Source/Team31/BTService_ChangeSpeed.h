@@ -17,7 +17,7 @@ class TEAM31_API UBTService_ChangeSpeed : public UBTService_BlackboardBase
 public:
 	UBTService_ChangeSpeed();
 	virtual void OnBecomeRelevant(UBehaviorTreeComponent& OwnerComp, uint8* NodeMemory) override;
-private:
+protected:
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="AI", meta=(AllowPrivateAccess="yes"))
 	float Speed = 600.f;
 };
