@@ -8,7 +8,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac31d7af-252f-49dc-9dea-623ee06bd0f0" name="Changes" comment="" />
+    <list default="true" id="ac31d7af-252f-49dc-9dea-623ee06bd0f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Team31/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Team31/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Code/AI/Variants/BP_NPC_WanderChase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/AI/Variants/BP_NPC_WanderChase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Code/AI/Variants/BT_NPC_WanderChase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/AI/Variants/BT_NPC_WanderChase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Code/Shop/Cards/DT_CardDatabase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/Shop/Cards/DT_CardDatabase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Code/Shop/Cards/S_Cardinfo.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/Shop/Cards/S_Cardinfo.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Code/Shop/WBP_Shop.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Code/Shop/WBP_Shop.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/SNAP_James.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/SNAP_James.umap" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -195,6 +203,7 @@
       <workItem from="1715522408931" duration="2186000" />
       <workItem from="1715529816829" duration="1003000" />
       <workItem from="1715605299654" duration="1165000" />
+      <workItem from="1715610077071" duration="3530000" />
     </task>
     <servers />
   </component>
