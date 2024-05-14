@@ -2,7 +2,6 @@
 
 
 #include "BTTask_FindPlayerLocation.h"
-
 #include "NavigationSystem.h"
 #include "BehaviorTree/BlackboardComponent.h"
 #include "GameFramework/Character.h"
